@@ -2,92 +2,140 @@
 <HIPSVesselConfig Version="2.0">
   <VesselShape>
     <PlanCoordinates>
-      <Entry X="-3.400000" Y="-11.800000"/>
-      <Entry X="3.400000" Y="-11.800000"/>
-      <Entry X="3.400000" Y="9.800000"/>
-      <Entry X="0.000000" Y="11.800000"/>
-      <Entry X="-3.400000" Y="9.800000"/>
-      <Entry X="-3.400000" Y="-11.800000"/>
+      <Entry X="-1.500000" Y="-4.000000"/>
+      <Entry X="1.500000" Y="-4.000000"/>
+      <Entry X="1.500000" Y="3.000000"/>
+      <Entry X="0.000000" Y="5.000000"/>
+      <Entry X="-1.500000" Y="3.000000"/>
+      <Entry X="-1.500000" Y="-4.000000"/>
     </PlanCoordinates>
     <ProfileCoordinates>
-      <Entry Y="-11.800000" Z="2.160000"/>
-      <Entry Y="-11.800000" Z="-1.510000"/>
-      <Entry Y="9.800000" Z="-1.510000"/>
-      <Entry Y="11.800000" Z="2.160000"/>
-      <Entry Y="-11.800000" Z="2.160000"/>
+      <Entry Y="-4.000000" Z="0.700000"/>
+      <Entry Y="-4.000000" Z="-0.500000"/>
+      <Entry Y="3.000000" Z="-0.500000"/>
+      <Entry Y="5.000000" Z="0.700000"/>
+      <Entry Y="-4.000000" Z="0.700000"/>
     </ProfileCoordinates>
-    <RP Length="11.800000" Width="3.400000" Height="1.510000"/>
+    <RP Length="4.000000" Width="1.500000" Height="0.500000"/>
   </VesselShape>
-  <DepthSensor>
-    <TimeStamp value="2004-062 00:00:00">
-      <Comment value=""/>
-      <Latency value="0.000000"/>
-      <SensorClass value="Swath"/>
-      <TransducerEntries>
-        <Transducer Number="1" StartBeam="1" Model="en1180">
-          <Manufacturer value="(null)"/>
-          <SerialNumber value="(null)"/>
-          <Offsets X="-3.350000" Y="-6.800000" Z="2.590000" Latency="0.000000"/>
-          <MountAngle Pitch="-7.540000" Roll="1.070000" Azimuth="-6.890000"/>
-        </Transducer>
-        <Transducer Number="2" StartBeam="64" Model="en1180">
-          <Manufacturer value="(null)"/>
-          <SerialNumber value="(null)"/>
-          <Offsets X="-3.350000" Y="-6.800000" Z="2.590000" Latency="0.000000"/>
-          <MountAngle Pitch="-17.870000" Roll="-1.870000" Azimuth="-8.780000"/>
-        </Transducer>
-      </TransducerEntries>
-    </TimeStamp>
-  </DepthSensor>
-  <GyroSensor>
-    <TimeStamp value="2004-062 00:00:00">
-      <Latency value="0.000000"/>
-      <ApplyFlag value="Yes"/>
-      <Offsets>
-        <Gyro>
-          <Entry Azimuth="0.000000" Offset="0.000000"/>
-        </Gyro>
-      </Offsets>
-    </TimeStamp>
-  </GyroSensor>
-  <HeaveSensor>
-    <TimeStamp value="2004-062 00:00:00">
-      <Latency value="0.000000"/>
-      <ApplyFlag value="Yes"/>
-      <Offsets X="-0.510000" Y="0.000000" Z="-0.140000" Heave="0.000000"/>
-    </TimeStamp>
-  </HeaveSensor>
   <NavSensor>
-    <TimeStamp value="2004-062 00:00:00">
+    <TimeStamp value="2018-335 00:00:00">
       <Comment value="(null)"/>
-      <Latency value="2.430000"/>
+      <Latency value="0.000000"/>
       <Manufacturer value="(null)"/>
       <Model value="(null)"/>
       <SerialNumber value="(null)"/>
-      <Ellipse value="WG84"/>
-      <Offsets X="-2.500000" Y="-2.040000" Z="-8.090000"/>
+      <Ellipse value="NA83"/>
+      <Offsets X="0.000000" Y="0.000000" Z="0.000000"/>
+    </TimeStamp>
+    <TimeStamp value="2018-335 00:00:00">
+      <Comment value="(null)"/>
+      <Latency value="0.000000"/>
+      <Manufacturer value="(null)"/>
+      <Model value="(null)"/>
+      <SerialNumber value="(null)"/>
+      <Ellipse value="NA83"/>
+      <SourceName value="Applanix.SBET"/>
+      <Offsets X="0.000000" Y="0.000000" Z="0.000000"/>
     </TimeStamp>
   </NavSensor>
+  <GyroSensor>
+    <TimeStamp value="2018-335 00:00:00">
+      <Latency value="0.000000"/>
+      <ApplyFlag value="No"/>
+    </TimeStamp>
+  </GyroSensor>
+  <HeaveSensor>
+    <TimeStamp value="2018-335 00:00:00">
+      <Latency value="0.000000"/>
+      <ApplyFlag value="Yes"/>
+      <Offsets X="0.000000" Y="0.000000" Z="0.000000" Heave="0.000000"/>
+    </TimeStamp>
+  </HeaveSensor>
   <PitchSensor>
-    <TimeStamp value="2004-062 00:00:00">
+    <TimeStamp value="2018-335 00:00:00">
       <Latency value="0.000000"/>
       <ApplyFlag value="Yes"/>
       <Offsets Pitch="0.000000"/>
     </TimeStamp>
   </PitchSensor>
   <RollSensor>
-    <TimeStamp value="2004-062 00:00:00">
+    <TimeStamp value="2018-335 00:00:00">
       <Latency value="0.000000"/>
       <ApplyFlag value="No"/>
       <Offsets Roll="0.000000"/>
     </TimeStamp>
   </RollSensor>
-  <WaterlineHeight>
-    <TimeStamp value="2004-062 00:00:00">
+  <DraftSensor>
+    <TimeStamp value="2018-335 00:00:00">
       <Latency value="0.000000"/>
-      <WaterLine value="-1.410000"/>
+      <ApplyFlag value="Yes"/>
+      <DraftEntries>
+        <Entry Speed="1.889417" Draft="0.000000"/>
+        <Entry Speed="3.778834" Draft="0.000000"/>
+        <Entry Speed="5.668251" Draft="0.010000"/>
+        <Entry Speed="7.557667" Draft="0.020000"/>
+        <Entry Speed="9.517063" Draft="0.030000"/>
+        <Entry Speed="11.336501" Draft="0.050000"/>
+        <Entry Speed="13.223974" Draft="0.070000"/>
+        <Entry Speed="15.113391" Draft="0.090000"/>
+        <Entry Speed="17.002808" Draft="0.090000"/>
+        <Entry Speed="18.888337" Draft="0.060000"/>
+        <Entry Speed="20.781641" Draft="-0.010000"/>
+      </DraftEntries>
+    </TimeStamp>
+  </DraftSensor>
+  <WaterlineHeight>
+    <TimeStamp value="2018-335 00:00:00">
+      <Comment value="(null)"/>
+      <Latency value="0.000000"/>
+      <WaterLine value="-0.090000"/>
       <ApplyFlag value="Yes"/>
       <StdDev Waterline="0.000000"/>
     </TimeStamp>
   </WaterlineHeight>
+  <SVPSensor>
+    <TimeStamp value="2018-335 00:00:00">
+      <Latency value="0.000000"/>
+      <DualHead value="Yes"/>
+      <Offsets X="0.019000" Y="0.244000" Z="0.481000" X2="0.000000" Y2="0.000000" Z2="0.000000"/>
+      <MountAngle Pitch="0.000000" Roll="0.000000" Azimuth="0.000000" Pitch2="0.000000" Roll2="0.000000" Azimuth2="0.000000"/>
+    </TimeStamp>
+  </SVPSensor>
+  <DepthSensor>
+    <TimeStamp value="2018-335 00:00:00">
+      <Latency value="0.000000"/>
+      <SensorClass value="Swath"/>
+      <TransducerEntries>
+        <Transducer Number="1" Model="sb7125d">
+          <Offsets X="0.019000" Y="0.244000" Z="0.481000" Latency="0.000000"/>
+          <MountAngle Pitch="-1.490000" Roll="0.100000" Azimuth="0.500000"/>
+        </Transducer>
+      </TransducerEntries>
+    </TimeStamp>
+  </DepthSensor>
+  <TPEConfiguration>
+    <TimeStamp value="2011-068 00:00:00">
+      <Comment value=""/>
+      <Latency value="0.000000"/>
+      <Offsets>
+        <MRUtoTransducer X="0.019000" Y="0.244000" Z="0.481000" X2="0.000000" Y2="0.000000" Z2="0.000000"/>
+        <NavigationToTransducer X="0.804000" Y="1.056000" Z="3.628000" X2="0.000000" Y2="0.000000" Z2="0.000000"/>
+        <Transducer Roll="0.000000" Roll2="0.000000"/>
+        <Navigation Latency="0.000000"/>
+      </Offsets>
+      <StandardDeviation>
+        <Motion Gyro="0.040000" HeavePercAmplitude="5.000000" Heave="0.050000" Roll="0.020000" Pitch="0.020000" PitchStablized="0.000000"/>
+        <Position Navigation="0.500000"/>
+        <Timing Transducer="0.005000" Navigation="0.005000" Gyro="0.005000" Heave="0.005000" Pitch="0.005000" Roll="0.005000"/>
+        <SoundVelocity Measured="0.000000" Surface="0.000000"/>
+        <Tide Measured="0.000000" Zoning="0.000000"/>
+        <Offsets X="0.007000" Y="0.007000" Z="0.007000"/>
+        <MRUAlignment Gyro="0.050000" Pitch="0.020000" Roll="0.020000"/>
+        <Vessel Speed="0.030000" Loading="0.044000" Draft="0.044000" DeltaDraft="0.050000">
+          <StDevComment value="(null)"/>
+        </Vessel>
+      </StandardDeviation>
+    </TimeStamp>
+  </TPEConfiguration>
 </HIPSVesselConfig>
