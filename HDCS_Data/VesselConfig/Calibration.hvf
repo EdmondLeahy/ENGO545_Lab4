@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<HIPSVesselConfig Version="2.0">
+  <VesselShape>
+    <PlanCoordinates>
+      <Entry X="-3.400000" Y="-11.800000"/>
+      <Entry X="3.400000" Y="-11.800000"/>
+      <Entry X="3.400000" Y="9.800000"/>
+      <Entry X="0.000000" Y="11.800000"/>
+      <Entry X="-3.400000" Y="9.800000"/>
+      <Entry X="-3.400000" Y="-11.800000"/>
+    </PlanCoordinates>
+    <ProfileCoordinates>
+      <Entry Y="-11.800000" Z="2.160000"/>
+      <Entry Y="-11.800000" Z="-1.510000"/>
+      <Entry Y="9.800000" Z="-1.510000"/>
+      <Entry Y="11.800000" Z="2.160000"/>
+      <Entry Y="-11.800000" Z="2.160000"/>
+    </ProfileCoordinates>
+    <RP Length="11.800000" Width="3.400000" Height="1.510000"/>
+  </VesselShape>
+  <DepthSensor>
+    <TimeStamp value="2004-062 00:00:00">
+      <Comment value=""/>
+      <Latency value="0.000000"/>
+      <SensorClass value="Swath"/>
+      <TransducerEntries>
+        <Transducer Number="1" StartBeam="1" Model="en1180">
+          <Manufacturer value="(null)"/>
+          <SerialNumber value="(null)"/>
+          <Offsets X="-3.350000" Y="-6.800000" Z="2.590000" Latency="0.000000"/>
+          <MountAngle Pitch="-7.540000" Roll="1.070000" Azimuth="-6.890000"/>
+        </Transducer>
+        <Transducer Number="2" StartBeam="64" Model="en1180">
+          <Manufacturer value="(null)"/>
+          <SerialNumber value="(null)"/>
+          <Offsets X="-3.350000" Y="-6.800000" Z="2.590000" Latency="0.000000"/>
+          <MountAngle Pitch="-17.870000" Roll="-1.870000" Azimuth="-8.780000"/>
+        </Transducer>
+      </TransducerEntries>
+    </TimeStamp>
+  </DepthSensor>
+  <GyroSensor>
+    <TimeStamp value="2004-062 00:00:00">
+      <Latency value="0.000000"/>
+      <ApplyFlag value="Yes"/>
+      <Offsets>
+        <Gyro>
+          <Entry Azimuth="0.000000" Offset="0.000000"/>
+        </Gyro>
+      </Offsets>
+    </TimeStamp>
+  </GyroSensor>
+  <HeaveSensor>
+    <TimeStamp value="2004-062 00:00:00">
+      <Latency value="0.000000"/>
+      <ApplyFlag value="Yes"/>
+      <Offsets X="-0.510000" Y="0.000000" Z="-0.140000" Heave="0.000000"/>
+    </TimeStamp>
+  </HeaveSensor>
+  <NavSensor>
+    <TimeStamp value="2004-062 00:00:00">
+      <Comment value="(null)"/>
+      <Latency value="2.430000"/>
+      <Manufacturer value="(null)"/>
+      <Model value="(null)"/>
+      <SerialNumber value="(null)"/>
+      <Ellipse value="WG84"/>
+      <Offsets X="-2.500000" Y="-2.040000" Z="-8.090000"/>
+    </TimeStamp>
+  </NavSensor>
+  <PitchSensor>
+    <TimeStamp value="2004-062 00:00:00">
+      <Latency value="0.000000"/>
+      <ApplyFlag value="Yes"/>
+      <Offsets Pitch="0.000000"/>
+    </TimeStamp>
+  </PitchSensor>
+  <RollSensor>
+    <TimeStamp value="2004-062 00:00:00">
+      <Latency value="0.000000"/>
+      <ApplyFlag value="No"/>
+      <Offsets Roll="0.000000"/>
+    </TimeStamp>
+  </RollSensor>
+  <WaterlineHeight>
+    <TimeStamp value="2004-062 00:00:00">
+      <Latency value="0.000000"/>
+      <WaterLine value="-1.410000"/>
+      <ApplyFlag value="Yes"/>
+      <StdDev Waterline="0.000000"/>
+    </TimeStamp>
+  </WaterlineHeight>
+</HIPSVesselConfig>

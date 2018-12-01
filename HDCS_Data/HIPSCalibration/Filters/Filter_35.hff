@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<HIPS_Filters Version="1.00">
+  <SbFilters>
+    <Reject value="0"/>
+    <MovingAverageFlag value="0"/>
+    <MovingAverageValue value="3.000000"/>
+    <MovingAverageThreshold value="0.100000"/>
+    <MovingAverageValueInSeconds value="0"/>
+    <MinDepthFlag value="0"/>
+    <MinDepth value="0.000000"/>
+    <MaxDepthFlag value="0"/>
+    <MaxDepth value="0.000000"/>
+    <interbeamAlongFlag value="0"/>
+    <InterBeam value="0.000000"/>
+    <IncludeRejected value="1"/>
+    <Primary value="0"/>
+    <Secondary value="0"/>
+    <Selected value="0"/>
+    <FilterEnabled value="0"/>
+  </SbFilters>
+  <TPEFilters>
+    <Enabled value="0"/>
+    <FilterLogic value="1"/>
+    <IHOStandard value="0"/>
+    <IHOOption value="0"/>
+    <a value="0.250000"/>
+    <b value="0.007500"/>
+    <Depth value="2.000000"/>
+    <PercOfDepth value="0.000000"/>
+    <DepthLimitEnabled value="0"/>
+    <MinDepth value="0.000000"/>
+    <MaxDepth value="0.000000"/>
+  </TPEFilters>
+  <SwathFilters>
+    <Reject value="0"/>
+    <IncludeRejected value="0"/>
+    <FilterEnabled value="1"/>
+    <MinDepthFlag value="1"/>
+    <MinDepth value="35.000000"/>
+    <BeamNumbers value="1-4,120-126"/>
+    <quality1 value="0"/>
+    <quality2 value="0"/>
+    <quality3 value="0"/>
+    <quality4 value="0"/>
+    <AnyNeighbour value="0"/>
+    <ForeNeighbour value="0"/>
+    <SideNeighbour value="0"/>
+  </SwathFilters>
+  <SensorFilters>
+    <Gyro>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </Gyro>
+    <Heave>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </Heave>
+    <Pitch>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </Pitch>
+    <Roll>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </Roll>
+    <SSS_Gyro>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </SSS_Gyro>
+    <SSS_CABLE>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </SSS_CABLE>
+    <SSS_SensorHeight>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </SSS_SensorHeight>
+    <SSSS_SensorDepth>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </SSSS_SensorDepth>
+    <Draft>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </Draft>
+    <SOW>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </SOW>
+    <GPS_Height>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </GPS_Height>
+    <GPS_Tide>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </GPS_Tide>
+    <Tide>
+      <UpperThreshold value="1.000000"/>
+      <BoxLength value="3"/>
+      <EnableFitler value="0"/>
+      <EnableSmoothing value="0"/>
+      <BreakInterp value="0"/>
+      <IsTime value="0"/>
+      <FilterType value="0"/>
+    </Tide>
+    <IncludeFilters value="0"/>
+  </SensorFilters>
+  <CriticalSoundingsFilterSettings>
+    <Enabled value="0"/>
+    <UseDesignated value="0"/>
+    <UseExamined value="0"/>
+    <UseOutstanding value="0"/>
+    <ProtectiveRadius value="0.000000"/>
+  </CriticalSoundingsFilterSettings>
+</HIPS_Filters>

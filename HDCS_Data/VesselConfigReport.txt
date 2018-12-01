@@ -1,0 +1,140 @@
+Vessel Name: FA_2807_Edmond
+Vessel created: December 01, 2018
+
+
+Depth Sensor:
+
+	Sensor Class:	 Swath
+	Time Stamp:	 2018-335 00:00
+
+	Comments: 
+	Time Correction(s) 0.000
+
+	Transduer #1:
+	-------------
+	Pitch Offset:	0.000
+	Roll Offset:	0.000
+	Azimuth Offset:	0.000
+
+	DeltaX:	0.000
+	DeltaY:	0.000
+	DeltaZ:	0.000
+
+	Manufacturer:	 
+	Model:		 sb7125d
+	Serial Number:	 
+
+_________________________________________________________
+Navigation Sensor:
+
+	Time Stamp:	 2018-335 00:00
+
+	Comments: 
+	Time Correction(s) 0.000
+	DeltaX:	0.000
+	DeltaY:	0.000
+	DeltaZ:	0.000
+
+	Manufacturer:	 (null)
+	Model:		 (null)
+	Serial Number:	 (null)
+
+_________________________________________________________
+Gyro Sensor:
+
+	Time Stamp:	 2018-335 00:00
+
+	Comments: 
+	Time Correction(s) 0.000
+
+_________________________________________________________
+Heave Sensor:
+
+	Time Stamp:	 2018-335 00:00
+
+	Comments: 
+	Apply Yes
+	Time Correction(s) 0.000
+	DeltaX:	0.000
+	DeltaY:	0.000
+	DeltaZ:	0.000
+	Offset:	0.000
+
+	Manufacturer:	 (null)
+	Model:		 (null)
+	Serial Number:	 (null)
+
+_________________________________________________________
+Pitch Sensor:
+
+	Time Stamp:	 2018-335 00:00
+
+	Comments: 
+	Apply Yes
+	Time Correction(s) 0.000
+	Pitch offset: 0.000
+
+	Manufacturer:	 (null)
+	Model:		 (null)
+	Serial Number:	 (null)
+
+_________________________________________________________
+Roll Sensor:
+
+	Time Stamp:	 2018-335 00:00
+
+	Comments: 
+	Apply No
+	Time Correction(s) 0.000
+	Roll offset: 0.000
+
+	Manufacturer:	 (null)
+	Model:		 (null)
+	Serial Number:	 (null)
+
+_________________________________________________________
+Draft Sensor:
+
+	Time Stamp:	 2018-335 00:00
+
+	Apply Yes
+	Comments: 
+	Time Correction(s) 0.000
+
+_________________________________________________________
+Svp Sensor:
+
+	Time Stamp:	 2018-335 00:00
+
+	Comments: 
+	Time Correction(s) 0.000
+
+	Svp #1:
+	-------------
+	Pitch Offset:	0.000
+	Roll Offset:	0.000
+	Azimuth Offset:	0.000
+
+	DeltaX:	0.000
+	DeltaY:	0.000
+	DeltaZ:	0.000
+
+	SVP #2:
+	-------------
+	Pitch Offset:	0.000
+	Roll Offset:	0.000
+	Azimuth Offset:	0.000
+
+	DeltaX:	0.000
+	DeltaY:	0.000
+	DeltaZ:	0.000
+
+_________________________________________________________
+WaterLine:
+
+	Time Stamp:	 2018-335 00:00
+
+	Comments: 
+	Apply Yes
+	WaterLine 0.000
+_________________________________________________________

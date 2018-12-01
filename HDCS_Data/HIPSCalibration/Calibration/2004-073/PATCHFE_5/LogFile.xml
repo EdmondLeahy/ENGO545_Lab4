@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LogFile>
+  <Entries>
+    <NumberOfEntries value="5"/>
+    <Entry_1>
+      <StartTime value="1.54179125300000000000e+009"/>
+      <EndTime value="1.54179125300000000000e+009"/>
+      <UserName value="Edmond Robert Leahy (erleahy@ucalgary.ca)"/>
+      <OtherData>
+        <Data_1>
+          <Name value="HIPS Version"/>
+          <Value value="HIPS.exe, 9.1.11"/>
+        </Data_1>
+        <Data_2>
+          <Name value="Conversion Summary"/>
+          <Value>
+            <Data_1>
+              <Name value="Status"/>
+              <Value value="0"/>
+            </Data_1>
+            <Data_2>
+              <Name value="Navigation Filtered"/>
+              <Value value="0"/>
+            </Data_2>
+            <Data_3>
+              <Name value="Total Navigation"/>
+              <Value value="228"/>
+            </Data_3>
+            <Data_4>
+              <Name value="Accepted Soundings"/>
+              <Value value="32508"/>
+            </Data_4>
+            <Data_5>
+              <Name value="Disabled Beams"/>
+              <Value value="0"/>
+            </Data_5>
+            <Data_6>
+              <Name value="Depths Filtered"/>
+              <Value value="0"/>
+            </Data_6>
+            <Data_7>
+              <Name value="Total Depths"/>
+              <Value value="32508"/>
+            </Data_7>
+            <Data_8>
+              <Name value="SS Navigation Filtered"/>
+              <Value value="0"/>
+            </Data_8>
+            <Data_9>
+              <Name value="Total SS Navigation"/>
+              <Value value="0"/>
+            </Data_9>
+            <Data_10>
+              <Name value="SS Profiles"/>
+              <Value value="0"/>
+            </Data_10>
+            <Data_11>
+              <Name value="Depths Filtered (Advanced)"/>
+              <Value value="0"/>
+            </Data_11>
+            <Data_12>
+              <Name value="Depths Thinned"/>
+              <Value value="0"/>
+            </Data_12>
+            <NumberOfEntries value="12"/>
+          </Value>
+        </Data_2>
+        <Data_3>
+          <Name value="Bathy Summary"/>
+          <Value>
+            <Data_1>
+              <Name value="Tooltype"/>
+              <Value value="23"/>
+            </Data_1>
+            <Data_2>
+              <Name value="Line Segments"/>
+              <Value value="1"/>
+            </Data_2>
+            <Data_3>
+              <Name value="Profiles"/>
+              <Value value="258"/>
+            </Data_3>
+            <Data_4>
+              <Name value="Min Time (UTC80)"/>
+              <Value value="763654745.760000"/>
+            </Data_4>
+            <Data_5>
+              <Name value="Min Time (YYYY JDAY HH:MM:SS)"/>
+              <Value value="2004 073 14:18:52"/>
+            </Data_5>
+            <Data_6>
+              <Name value="Max Time (UTC80)"/>
+              <Value value="763655316.558000"/>
+            </Data_6>
+            <Data_7>
+              <Name value="Max Time (YYYY JDAY HH:MM:SS)"/>
+              <Value value="2004 073 14:28:23"/>
+            </Data_7>
+            <Data_8>
+              <Name value="Min Depth"/>
+              <Value value="0.000000"/>
+            </Data_8>
+            <Data_9>
+              <Name value="Max Depth"/>
+              <Value value="108.251000"/>
+            </Data_9>
+            <Data_10>
+              <Name value="Status"/>
+              <Value value="1073741824"/>
+            </Data_10>
+            <NumberOfEntries value="10"/>
+          </Value>
+        </Data_3>
+        <Data_4>
+          <Name value="Navigation Summary"/>
+          <Value>
+            <Data_1>
+              <Name value="Type"/>
+              <Value value="Navigation"/>
+            </Data_1>
+            <Data_2>
+              <Name value="Line Segments"/>
+              <Value value="1"/>
+            </Data_2>
+            <Data_3>
+              <Name value="Records"/>
+              <Value value="228"/>
+            </Data_3>
+            <Data_4>
+              <Name value="Coordinate Type"/>
+              <Value value="LLDG"/>
+            </Data_4>
+            <Data_5>
+              <Name value="Min Time (UTC80)"/>
+              <Value value="763654745.062000"/>
+            </Data_5>
+            <Data_6>
+              <Name value="Min Time (YYYY JDAY HH:MM:SS)"/>
+              <Value value="2004 073 14:18:52"/>
+            </Data_6>
+            <Data_7>
+              <Name value="Max Time (UTC80)"/>
+              <Value value="763655313.052000"/>
+            </Data_7>
+            <Data_8>
+              <Name value="Max Time (YYYY JDAY HH:MM:SS)"/>
+              <Value value="2004 073 14:28:20"/>
+            </Data_8>
+            <Data_9>
+              <Name value="Min Latitude"/>
+              <Value value="-0.237926"/>
+            </Data_9>
+            <Data_10>
+              <Name value="Max Latitude"/>
+              <Value value="-0.237766"/>
+            </Data_10>
+            <Data_11>
+              <Name value="Min Longitude"/>
+              <Value value="2.173802"/>
+            </Data_11>
+            <Data_12>
+              <Name value="Max Longitude"/>
+              <Value value="2.173981"/>
+            </Data_12>
+            <Data_13>
+              <Name value="Status"/>
+              <Value value="0"/>
+            </Data_13>
+            <Data_14>
+              <Name value="Input Coordinate System"/>
+              <Value value="Geographic"/>
+            </Data_14>
+            <NumberOfEntries value="14"/>
+          </Value>
+        </Data_4>
+        <Data_5>
+          <Name value="Additional Converter Data"/>
+          <Value>
+            <NumberOfEntries value="0"/>
+          </Value>
+        </Data_5>
+        <NumberOfEntries value="5"/>
+      </OtherData>
+      <Options>
+        <Conversion>
+          <UseReplication value="false"/>
+          <ConvertDLL value="XTF"/>
+          <laybackMultiplier value="1.00000000000000000000"/>
+          <statisticalThreshold value="2.00000000000000000000"/>
+          <XTFsectorAngle value="3.00000000000000000000"/>
+          <horizontalBinSize value="1.00000000000000000000"/>
+          <minXTFRangeFilter value="0.00000000000000000000e+000"/>
+          <maxXTFRangeFilter value="10000.00000000000000000000"/>
+          <ampPercentage value="10.00000000000000000000"/>
+          <convertBathy value="1"/>
+          <convertSidescan value="0"/>
+          <useAuxVal1 value="0"/>
+          <convertContact value="1"/>
+          <convertLaybackorCableOut value="0"/>
+          <convertTowFish value="0"/>
+          <correctImagery value="0"/>
+          <decimateSidescan value="0"/>
+          <SonarChannel value="1,2"/>
+          <shipGyroFromShip value="1"/>
+          <shipGyroFromRaw value="0"/>
+          <shipGyroFromSensor value="0"/>
+          <shipGyroFromAtt value="0"/>
+          <shipGyroFromCMGNav value="0"/>
+          <shipGyroFromCMGSSNav value="0"/>
+          <shipGyroFromHeader value="0"/>
+          <fishNavSource value="Ping Header: Sensor"/>
+          <SSSGyroFromShip value="0"/>
+          <SSSGyroFromAtt value="0"/>
+          <SSSGyroFromSensor value="1"/>
+          <SSSGyroFromRaw value="0"/>
+          <SSSGyroFromCMGNav value="0"/>
+          <SSSGyroFromCMGSSNav value="0"/>
+          <SSSGyroFromHeader value="0"/>
+          <convertROVDepth value="0"/>
+          <ROVDepthFromSensorDepth value="0"/>
+          <ROVDepthAuxNumber value="0"/>
+          <TowfishDepthAuxNumber value="1"/>
+          <quality0 value="0"/>
+          <quality1 value="0"/>
+          <quality2 value="0"/>
+          <quality3 value="0"/>
+          <shift16Bit value="0"/>
+          <bitsToShift value="0"/>
+          <convert16BitData value="1"/>
+          <convertHiddenDAta value="0"/>
+          <convertSingleBeam value="0"/>
+          <SingleBeamAuxNumber value="0"/>
+          <convertSweep value="0"/>
+          <navDatagram value="Ping Header: Sensor"/>
+          <attDatagram value="Attitude Records"/>
+          <GPSHeightFromTide value="0"/>
+          <portAngleInner value="30"/>
+          <stbdAngleInner value="30"/>
+          <portAngleOuter value="75"/>
+          <stbdAngleOuter value="75"/>
+          <multibeamFiltering value="0"/>
+          <angleFiltering value="0"/>
+          <dataThinning value="0"/>
+          <dataThinningFactor value="2"/>
+          <rangeFiltering value="0"/>
+          <AmplitudeFiltering value="0"/>
+          <statisticalFiltering value="0"/>
+          <horizontalBinning value="Sector Angle"/>
+          <primaryDataChannel value="0"/>
+          <overwriteBathymetry value="true"/>
+          <overwriteNavigation value="true"/>
+          <overwriteMotion value="true"/>
+          <overwriteBackscatter value="true"/>
+          <overwriteSidescan value="true"/>
+          <ConvertMethod value="CreateNew"/>
+          <useAdvancedFiltering value="false"/>
+          <useAmplitudeFiltering value="false"/>
+          <outputThinnedData value="false"/>
+          <minTrans1AngleFilter value="30.00000000000000000000"/>
+          <maxTrans1AngleFilter value="75.00000000000000000000"/>
+          <minTrans2AngleFilter value="30.00000000000000000000"/>
+          <maxTrans2AngleFilter value="75.00000000000000000000"/>
+          <amplitudePercent value="10.00000000000000000000"/>
+          <threshold value="2.00000000000000000000"/>
+          <sectorAngle value="3.00000000000000000000"/>
+          <binSize value="1.00000000000000000000"/>
+          <thinFactor value="2"/>
+          <minRangeFilter value="0.00000000000000000000e+000"/>
+          <maxRangeFilter value="10000.00000000000000000000"/>
+          <usePreScan value="false"/>
+          <timeOverlapBuffer value="10"/>
+          <useFilterCover value="false"/>
+          <useMinMaxDepth value="false"/>
+          <coordinateSystem value="LLDG"/>
+          <angleFilterMethod value="NONE"/>
+          <rangeFilterMethod value="NONE"/>
+          <depthComparator value="MEAN"/>
+          <statisticalFilterMethod value="NONE"/>
+          <portSwathSize value="0.00000000000000000000e+000"/>
+          <stbdSwathSize value="0.00000000000000000000e+000"/>
+          <depthMultiplier value="0.00000000000000000000e+000"/>
+          <QUALITY value="false"/>
+          <ECHO_STRENGTH value="false"/>
+          <SNR value="false"/>
+          <ECHO_STRENGTH_AQU value="false"/>
+          <QUALITY_AQU value="false"/>
+          <SNR_AQU value="false"/>
+          <edgetechQualityPercent value="50"/>
+          <edgetechEchoStrengthPercent value="1.00000000000000000000"/>
+          <edgetechSNRdB value="8"/>
+          <outputFilteredData value="true"/>
+          <GA_FilterGroupBottom value="false"/>
+          <GA_FilterWaterColumn value="false"/>
+          <GA_FilterLimits value="false"/>
+          <GA_FilterAmplitude value="false"/>
+          <GA_FilterAcrossTrack value="false"/>
+          <GA_FilterAlongTrack value="false"/>
+          <carryRawDataFiles value="false"/>
+          <useProjectFile value="false"/>
+        </Conversion>
+      </Options>
+    </Entry_1>
+    <Entry_2>
+      <StartTime value="1.54179130700000000000e+009"/>
+      <EndTime value="1.54179130700000000000e+009"/>
+      <UserName value="Edmond Robert Leahy (erleahy@ucalgary.ca)"/>
+      <OtherData>
+        <Data_1>
+          <Name value="HIPS Version"/>
+          <Value value="HIPS.exe, 9.1.11"/>
+        </Data_1>
+        <Data_2>
+          <Name value="TideApplied"/>
+          <Value>
+            <Data_1>
+              <Name value="DirectSource"/>
+              <Value value="C:\Users\erleahy\Documents\Edmond\545\Lab3\TrainingData\Tide\HIPSCalibration\March08-22_2004.tid"/>
+            </Data_1>
+            <NumberOfEntries value="1"/>
+          </Value>
+        </Data_2>
+        <NumberOfEntries value="2"/>
+      </OtherData>
+      <Options>
+        <LoadTide>
+          <UseReplication value="false"/>
+          <SingleTideStation value="true"/>
+          <SingleTideFilePath value="C:\Users\erleahy\Documents\Edmond\545\Lab3\TrainingData\Tide\HIPSCalibration\March08-22_2004.tid"/>
+          <MultipleTideFilePath value="C:\Users\erleahy\Documents\Edmond\545\Lab3\TrainingData\Tide\HIPSCalibration\March08-22_2004.tid"/>
+          <WeightedAverage value="false"/>
+          <ComputeErrors value="false"/>
+        </LoadTide>
+      </Options>
+    </Entry_2>
+    <Entry_3>
+      <StartTime value="1.54179132900000000000e+009"/>
+      <EndTime value="1.54179132900000000000e+009"/>
+      <UserName value="Edmond Robert Leahy (erleahy@ucalgary.ca)"/>
+      <OtherData>
+        <Data_1>
+          <Name value="HIPS Version"/>
+          <Value value="HIPS.exe, 9.1.11"/>
+        </Data_1>
+        <Data_2>
+          <Name value="Vessel Configuration Settings"/>
+          <Value>
+            <Data_1>
+              <Name value="Depth Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Sensor Class"/>
+                  <Value value="Swath"/>
+                </Data_1>
+                <Data_2>
+                  <Name value="Number of transducers"/>
+                  <Value value="2"/>
+                </Data_2>
+                <Data_3>
+                  <Name value="Num beams in transducer 1"/>
+                  <Value value="63"/>
+                </Data_3>
+                <Data_4>
+                  <Name value="Transducer 1 XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="-3.350000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="-6.800000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="2.590000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_4>
+                <Data_5>
+                  <Name value="Transducer 1 RPG"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="Roll"/>
+                      <Value value="0.000000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Pitch"/>
+                      <Value value="0.000000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Yaw"/>
+                      <Value value="0.000000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_5>
+                <Data_6>
+                  <Name value="Transducer 1 Latency"/>
+                  <Value value="0.000000"/>
+                </Data_6>
+                <Data_7>
+                  <Name value="Transducer 2 XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="-3.350000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="-6.800000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="2.590000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_7>
+                <Data_8>
+                  <Name value="Transducer 2 RPG"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="Roll"/>
+                      <Value value="0.000000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Pitch"/>
+                      <Value value="0.000000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Yaw"/>
+                      <Value value="0.000000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_8>
+                <Data_9>
+                  <Name value="Transducer 2 Latency"/>
+                  <Value value="0.000000"/>
+                </Data_9>
+                <NumberOfEntries value="9"/>
+              </Value>
+            </Data_1>
+            <Data_2>
+              <Name value="Gyro Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Gyro XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="0.000000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="0.000000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="0.000000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_1>
+                <Data_2>
+                  <Name value="Error"/>
+                  <Value value="0.000000"/>
+                </Data_2>
+                <Data_3>
+                  <Name value="Latency"/>
+                  <Value value="0.000000"/>
+                </Data_3>
+                <Data_4>
+                  <Name value="Applied"/>
+                  <Value value="Yes"/>
+                </Data_4>
+                <NumberOfEntries value="4"/>
+              </Value>
+            </Data_2>
+            <Data_3>
+              <Name value="Heave Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Heave XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="-0.510000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="0.000000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="-0.140000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_1>
+                <Data_2>
+                  <Name value="Error"/>
+                  <Value value="0.000000"/>
+                </Data_2>
+                <Data_3>
+                  <Name value="Latency"/>
+                  <Value value="0.000000"/>
+                </Data_3>
+                <Data_4>
+                  <Name value="Applied"/>
+                  <Value value="Yes"/>
+                </Data_4>
+                <NumberOfEntries value="4"/>
+              </Value>
+            </Data_3>
+            <Data_4>
+              <Name value="Pitch Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Pitch XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="0.000000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="0.000000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="0.000000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_1>
+                <Data_2>
+                  <Name value="Error"/>
+                  <Value value="0.000000"/>
+                </Data_2>
+                <Data_3>
+                  <Name value="Latency"/>
+                  <Value value="0.000000"/>
+                </Data_3>
+                <Data_4>
+                  <Name value="Applied"/>
+                  <Value value="Yes"/>
+                </Data_4>
+                <NumberOfEntries value="4"/>
+              </Value>
+            </Data_4>
+            <Data_5>
+              <Name value="Roll Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Roll XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="0.000000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="0.000000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="0.000000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_1>
+                <Data_2>
+                  <Name value="Error"/>
+                  <Value value="0.000000"/>
+                </Data_2>
+                <Data_3>
+                  <Name value="Latency"/>
+                  <Value value="0.000000"/>
+                </Data_3>
+                <Data_4>
+                  <Name value="Applied"/>
+                  <Value value="No"/>
+                </Data_4>
+                <NumberOfEntries value="4"/>
+              </Value>
+            </Data_5>
+            <Data_6>
+              <Name value="Waterline Height Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Waterline"/>
+                  <Value value="-1.410000"/>
+                </Data_1>
+                <Data_2>
+                  <Name value="Applied"/>
+                  <Value value="Yes"/>
+                </Data_2>
+                <NumberOfEntries value="2"/>
+              </Value>
+            </Data_6>
+            <Data_7>
+              <Name value="Nav Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Nav XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="-2.500000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="-2.040000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="-8.090000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_1>
+                <Data_2>
+                  <Name value="Latency"/>
+                  <Value value="0.000000"/>
+                </Data_2>
+                <NumberOfEntries value="2"/>
+              </Value>
+            </Data_7>
+            <NumberOfEntries value="7"/>
+          </Value>
+        </Data_2>
+        <Data_3>
+          <Name value="Navigation source names"/>
+          <Value>
+            <Data_1>
+              <Name value="Navigation Source"/>
+              <Value value="HDCS.Nav"/>
+            </Data_1>
+            <NumberOfEntries value="1"/>
+          </Value>
+        </Data_3>
+        <NumberOfEntries value="3"/>
+      </OtherData>
+      <Options>
+        <Merge>
+          <UseReplication value="false"/>
+          <ApplyRefractionCoefficients value="false"/>
+          <ApplyGPSTide value="false"/>
+          <ApplyTrueHeave value="false"/>
+          <ApplyBeamShift value="false"/>
+          <BeamShiftType value="None"/>
+          <BeamShiftTable value=""/>
+          <SmoothGyro value="false"/>
+          <SmoothHeave value="false"/>
+          <SmoothPitch value="false"/>
+          <SmoothRoll value="false"/>
+          <SmoothSOW value="false"/>
+          <SmoothDeltaDraft value="false"/>
+          <SmoothGPSTide value="false"/>
+          <SmoothTide value="false"/>
+        </Merge>
+      </Options>
+    </Entry_3>
+    <Entry_4>
+      <StartTime value="1.54179198700000000000e+009"/>
+      <EndTime value="1.54179198800000000000e+009"/>
+      <UserName value="Edmond Robert Leahy (erleahy@ucalgary.ca)"/>
+      <OtherData>
+        <NumberOfEntries value="0"/>
+      </OtherData>
+      <Options>
+        <BathymetryFilterProcess>
+          <UseProtectiveRadius value="false"/>
+          <UseDesignatedSoundings value="false"/>
+          <UseExaminedSoundings value="false"/>
+          <UseOutstandingSoundings value="false"/>
+          <ProtectiveRadius value="0.00000000000000000000e+000"/>
+          <Filters>
+            <IHOLimitFilter>
+              <Enabled value="false"/>
+              <Reject value="true"/>
+              <OrderSpecifiedA value="0.25000000000000000000"/>
+              <OrderSpecifiedB value="0.00749999999999999970"/>
+              <OrderSpecifiedUnitValue value="2.00000000000000000000"/>
+              <OrderSpecifiedPercValue value="0.00000000000000000000e+000"/>
+              <MinDepth value="-0.00000000000000000000e+000"/>
+              <MaxDepth value="-0.00000000000000000000e+000"/>
+              <IHOStandard value="IHO S-44"/>
+              <IHOType value="Special Order"/>
+              <DepthLimitEnabled value="false"/>
+            </IHOLimitFilter>
+            <BeamNumberFilter>
+              <BeamsToFilter>
+                <Entry value="1"/>
+                <Entry value="2"/>
+                <Entry value="3"/>
+                <Entry value="4"/>
+                <Entry value="120"/>
+                <Entry value="121"/>
+                <Entry value="122"/>
+                <Entry value="123"/>
+                <Entry value="124"/>
+                <Entry value="125"/>
+                <Entry value="126"/>
+              </BeamsToFilter>
+              <Enabled value="true"/>
+              <Reject value="true"/>
+            </BeamNumberFilter>
+            <DepthGateFilter>
+              <MinDepthGate value="-35.00000000000000000000"/>
+              <MaxDepthGate value="1.79769313486231570000e+308"/>
+              <Enabled value="true"/>
+              <Reject value="true"/>
+            </DepthGateFilter>
+            <SingleBeamFilter>
+              <Enabled value="false"/>
+              <Reject value="true"/>
+              <MovingAverageFlag value="false"/>
+              <MinDepthFilterFlag value="false"/>
+              <MaxDepthFilterFlag value="false"/>
+              <InterbeamAlongSlopeFlag value="false"/>
+              <IncludeRejected value="true"/>
+              <FilterPrimary value="false"/>
+              <FilterSecondary value="false"/>
+              <FilterSelected value="false"/>
+              <MinDepthFilter value="0.00000000000000000000e+000"/>
+              <MaxDepthFilter value="0.00000000000000000000e+000"/>
+              <InterbeamAlongSlope value="0.00000000000000000000e+000"/>
+              <MovingAverageValue value="3.00000000000000000000"/>
+              <MovingAverageValueInSeconds value="false"/>
+              <MovingAverageThreshold value="0.10000000000000001000"/>
+            </SingleBeamFilter>
+          </Filters>
+        </BathymetryFilterProcess>
+      </Options>
+    </Entry_4>
+    <Entry_5>
+      <StartTime value="1.54179386500000000000e+009"/>
+      <EndTime value="1.54179386600000000000e+009"/>
+      <UserName value="Edmond Robert Leahy (erleahy@ucalgary.ca)"/>
+      <OtherData>
+        <Data_1>
+          <Name value="HIPS Version"/>
+          <Value value="HIPS.exe, 9.1.11"/>
+        </Data_1>
+        <Data_2>
+          <Name value="Vessel Configuration Settings"/>
+          <Value>
+            <Data_1>
+              <Name value="Depth Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Sensor Class"/>
+                  <Value value="Swath"/>
+                </Data_1>
+                <Data_2>
+                  <Name value="Number of transducers"/>
+                  <Value value="2"/>
+                </Data_2>
+                <Data_3>
+                  <Name value="Num beams in transducer 1"/>
+                  <Value value="63"/>
+                </Data_3>
+                <Data_4>
+                  <Name value="Transducer 1 XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="-3.350000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="-6.800000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="2.590000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_4>
+                <Data_5>
+                  <Name value="Transducer 1 RPG"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="Roll"/>
+                      <Value value="1.070000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Pitch"/>
+                      <Value value="-7.540000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Yaw"/>
+                      <Value value="-6.890000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_5>
+                <Data_6>
+                  <Name value="Transducer 1 Latency"/>
+                  <Value value="0.000000"/>
+                </Data_6>
+                <Data_7>
+                  <Name value="Transducer 2 XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="-3.350000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="-6.800000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="2.590000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_7>
+                <Data_8>
+                  <Name value="Transducer 2 RPG"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="Roll"/>
+                      <Value value="-1.870000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Pitch"/>
+                      <Value value="-17.870000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Yaw"/>
+                      <Value value="-8.780000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_8>
+                <Data_9>
+                  <Name value="Transducer 2 Latency"/>
+                  <Value value="0.000000"/>
+                </Data_9>
+                <NumberOfEntries value="9"/>
+              </Value>
+            </Data_1>
+            <Data_2>
+              <Name value="Gyro Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Gyro XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="0.000000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="0.000000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="0.000000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_1>
+                <Data_2>
+                  <Name value="Error"/>
+                  <Value value="0.000000"/>
+                </Data_2>
+                <Data_3>
+                  <Name value="Latency"/>
+                  <Value value="0.000000"/>
+                </Data_3>
+                <Data_4>
+                  <Name value="Applied"/>
+                  <Value value="Yes"/>
+                </Data_4>
+                <NumberOfEntries value="4"/>
+              </Value>
+            </Data_2>
+            <Data_3>
+              <Name value="Heave Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Heave XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="-0.510000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="0.000000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="-0.140000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_1>
+                <Data_2>
+                  <Name value="Error"/>
+                  <Value value="0.000000"/>
+                </Data_2>
+                <Data_3>
+                  <Name value="Latency"/>
+                  <Value value="0.000000"/>
+                </Data_3>
+                <Data_4>
+                  <Name value="Applied"/>
+                  <Value value="Yes"/>
+                </Data_4>
+                <NumberOfEntries value="4"/>
+              </Value>
+            </Data_3>
+            <Data_4>
+              <Name value="Pitch Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Pitch XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="0.000000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="0.000000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="0.000000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_1>
+                <Data_2>
+                  <Name value="Error"/>
+                  <Value value="0.000000"/>
+                </Data_2>
+                <Data_3>
+                  <Name value="Latency"/>
+                  <Value value="0.000000"/>
+                </Data_3>
+                <Data_4>
+                  <Name value="Applied"/>
+                  <Value value="Yes"/>
+                </Data_4>
+                <NumberOfEntries value="4"/>
+              </Value>
+            </Data_4>
+            <Data_5>
+              <Name value="Roll Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Roll XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="0.000000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="0.000000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="0.000000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_1>
+                <Data_2>
+                  <Name value="Error"/>
+                  <Value value="0.000000"/>
+                </Data_2>
+                <Data_3>
+                  <Name value="Latency"/>
+                  <Value value="0.000000"/>
+                </Data_3>
+                <Data_4>
+                  <Name value="Applied"/>
+                  <Value value="No"/>
+                </Data_4>
+                <NumberOfEntries value="4"/>
+              </Value>
+            </Data_5>
+            <Data_6>
+              <Name value="Waterline Height Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Waterline"/>
+                  <Value value="-1.410000"/>
+                </Data_1>
+                <Data_2>
+                  <Name value="Applied"/>
+                  <Value value="Yes"/>
+                </Data_2>
+                <NumberOfEntries value="2"/>
+              </Value>
+            </Data_6>
+            <Data_7>
+              <Name value="Nav Config"/>
+              <Value>
+                <Data_1>
+                  <Name value="Nav XYZ"/>
+                  <Value>
+                    <Data_1>
+                      <Name value="X"/>
+                      <Value value="-2.500000"/>
+                    </Data_1>
+                    <Data_2>
+                      <Name value="Y"/>
+                      <Value value="-2.040000"/>
+                    </Data_2>
+                    <Data_3>
+                      <Name value="Z"/>
+                      <Value value="-8.090000"/>
+                    </Data_3>
+                    <NumberOfEntries value="3"/>
+                  </Value>
+                </Data_1>
+                <Data_2>
+                  <Name value="Latency"/>
+                  <Value value="2.430000"/>
+                </Data_2>
+                <NumberOfEntries value="2"/>
+              </Value>
+            </Data_7>
+            <NumberOfEntries value="7"/>
+          </Value>
+        </Data_2>
+        <Data_3>
+          <Name value="Navigation source names"/>
+          <Value>
+            <Data_1>
+              <Name value="Navigation Source"/>
+              <Value value="HDCS.Nav"/>
+            </Data_1>
+            <NumberOfEntries value="1"/>
+          </Value>
+        </Data_3>
+        <NumberOfEntries value="3"/>
+      </OtherData>
+      <Options>
+        <Merge>
+          <UseReplication value="false"/>
+          <ApplyRefractionCoefficients value="false"/>
+          <ApplyGPSTide value="false"/>
+          <ApplyTrueHeave value="false"/>
+          <ApplyBeamShift value="false"/>
+          <BeamShiftType value="None"/>
+          <BeamShiftTable value=""/>
+          <SmoothGyro value="false"/>
+          <SmoothHeave value="false"/>
+          <SmoothPitch value="false"/>
+          <SmoothRoll value="false"/>
+          <SmoothSOW value="false"/>
+          <SmoothDeltaDraft value="false"/>
+          <SmoothGPSTide value="false"/>
+          <SmoothTide value="false"/>
+        </Merge>
+      </Options>
+    </Entry_5>
+  </Entries>
+</LogFile>
